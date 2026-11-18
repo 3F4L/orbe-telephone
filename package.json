@@ -1,0 +1,12 @@
+{
+  "name": "orbe-telephone",
+  "version": "1.0.0",
+  "description": "Orbe - Influencer agency in an iPhone",
+  "main": "index.html",
+  "scripts": {
+    "dev": "python -m http.server 3000"
+  },
+  "keywords": ["influencer", "tiktok", "agency"],
+  "author": "Orbe",
+  "license": "MIT"
+}
